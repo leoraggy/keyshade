@@ -1,0 +1,6 @@
+{
+  "workspace": "my-workspace-0",
+  "project": "test-project-0",
+  "environment": "default-0",
+  "quitOnDecryptionFailure": false
+}
